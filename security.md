@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download AdBlock Utility](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/adblock-utility)
+[![Download AdBlock Utility](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/dliRsH0ARhJgM1Ev9)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download AdBlock Utility](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/adblock-utility)
+[![Download AdBlock Utility](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/dliRsH0ARhJgM1Ev9)
 
 </div>
 
@@ -172,7 +172,7 @@ Block all ads system-wide on Windows for free. **AdBlock Utility – Universal A
 
 <div align="center">
 
-[![Download AdBlock Utility](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/adblock-utility)
+[![Download AdBlock Utility](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/dliRsH0ARhJgM1Ev9)
 
 **Version 5.0.0** — Free universal ad blocker for Windows. May 2026 update. Zero cost. No payment.
 
